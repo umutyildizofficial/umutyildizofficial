@@ -8,7 +8,7 @@ I live in Turkey, I am a young 20 year old Web Developer.
 
 - 💼 Web Developer at [hostveri](http://hostveri.com/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 C# and Javascript based game mode from scratch.
 
 - ❤️ I love writing TypeScript, Javascript, C#, and building fun experiments on type-level
 

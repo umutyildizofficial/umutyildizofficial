@@ -6,7 +6,7 @@ I live in Turkey, I am a 20 years old Web Developer.
 
 **About me**
 
-- 💼 Web Developer at [hostveri](http://hostveri.com/)
+- 💼 Developer at [ShineV](http://shinev.com/)
 
 - 📈 C# and Javascript based game mode from scratch.
 

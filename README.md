@@ -1,4 +1,4 @@
-<p align="center"><a href="https://umutyildizofficial.github.io"><img width="80%" alt="Hello, I'm UmutYildiz." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://umutyildizofficial.github.io"><img width="80%" alt="Hello, I'm UmutYildiz." src="https://i.imgur.com/tbZ29p1.png" /></a></p>
 
 <br />
 

@@ -32,8 +32,3 @@ I live in Turkey, I am a young 20 year old Web Developer.
 </a>
 
 <br />
-<br />
-
-<a href="https://twitter.com/umutyildizofficial">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/umutyildizofficial/anuraghazra/master/assets/twitter.svg" />
-</a>

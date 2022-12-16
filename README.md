@@ -2,7 +2,7 @@
 
 <br />
 
-I live in Turkey, I am a young 20 year old Web Developer.
+I live in Turkey, I am a 20 years old Web Developer.
 
 **About me**
 

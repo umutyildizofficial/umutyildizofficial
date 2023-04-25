@@ -6,7 +6,7 @@ I live in Turkey, I am a 20 years old Web Developer.
 
 **About me**
 
-- 💼 Developer at [ShineV](http://shinev.com/)
+- 💼 Developer at [feaRp](http://fearp.com/)
 
 - 📈 C# and Javascript based game mode from scratch.
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://umutyildizofficial.github.io"><img width="80%" alt="Hello, I'm UmutYildiz." src="https://i.imgur.com/tbZ29p1.png" /></a></p>
+<p align="center"><a href="https://umut-yildiz.com.tr"><img width="80%" alt="Hello, I'm UmutYildiz." src="https://i.imgur.com/tbZ29p1.png" /></a></p>
 
 <br />
 
@@ -6,7 +6,7 @@ I live in Turkey, I am a 20 years old Web Developer.
 
 **About me**
 
-- 💼 Developer at [Virtuoso:V](http://virtuoso-rp.com/)
+- 💼 Developer at [Shine](http://shine.net.tr/)
 
 - 📈 C# and Javascript based game mode from scratch.
 
